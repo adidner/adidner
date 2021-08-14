@@ -1,6 +1,6 @@
 ### Hi there I'm Aaron 👋
 
-# I'm a Developer, Dancer, and Dungeon Master
+## I'm a Developer, Dancer, and Dungeon Master
 
 - 🔭 I’m currently working on developing more habits in line with my values
 - 🌱 I’m currently learning investing, self help and all the cool programming things
